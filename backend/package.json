@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "06-Aug-2021",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genialkartik/web-dev-bootcamp.git"
+  },
+  "author": "Kartik Tyagi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/genialkartik/web-dev-bootcamp/issues"
+  },
+  "homepage": "https://github.com/genialkartik/web-dev-bootcamp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
